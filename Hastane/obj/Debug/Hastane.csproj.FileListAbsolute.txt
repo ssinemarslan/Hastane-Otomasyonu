@@ -1,0 +1,48 @@
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\Hastane.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\Hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Doktorlar.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.GirisEkrani.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Raporlar.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Hastalar.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Poliklinikler.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Properties.Resources.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En yeni777.exe
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En yeni777.pdb
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\bin\Debug\En yeni777.exe.config
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\bin\Debug\En yeni777.exe
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\bin\Debug\En yeni777.pdb
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.SecimEkrani.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\bin\Debug\En yeni777.exe.config
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\bin\Debug\En yeni777.exe
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\bin\Debug\En yeni777.pdb
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\Hastane.csproj.AssemblyReference.cache
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\Hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Doktorlar.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.GirisEkrani.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Raporlar.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.SecimEkrani.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Hastalar.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Poliklinikler.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Properties.Resources.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.cache
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En yeni777.exe
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En yeni777.pdb
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\bin\Debug\En yeni777.exe.config
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\bin\Debug\En yeni777.exe
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\bin\Debug\En yeni777.pdb
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\Hastane.csproj.AssemblyReference.cache
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\Hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\En_yeni777.Doktorlar.resources
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\En_yeni777.GirisEkrani.resources
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\En_yeni777.Raporlar.resources
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\En_yeni777.SecimEkrani.resources
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\En_yeni777.Hastalar.resources
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\En_yeni777.Poliklinikler.resources
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\En_yeni777.Properties.Resources.resources
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\Hastane.csproj.GenerateResource.cache
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\En yeni777.exe
+C:\Users\sinem\OneDrive\Masaüstü\Sinem Arslan Projeler\Hastane(ado.net prosedürlü)\Hastane\obj\Debug\En yeni777.pdb

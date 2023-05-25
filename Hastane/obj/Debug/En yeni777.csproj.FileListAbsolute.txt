@@ -1,0 +1,29 @@
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\bin\Debug\En yeni777.exe.config
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\bin\Debug\En yeni777.exe
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\bin\Debug\En yeni777.pdb
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En yeni777.csproj.AssemblyReference.cache
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En_yeni777.Form1.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En_yeni777.Properties.Resources.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En yeni777.csproj.GenerateResource.cache
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En yeni777.csproj.CoreCompileInputs.cache
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En yeni777.exe
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En yeni777.pdb
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En_yeni777.Form2.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En_yeni777.Doktorlar.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En_yeni777.Poliklinikler.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En_yeni777.Hastalar.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En_yeni777.GirisEkrani.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\En yeni777\obj\Debug\En_yeni777.Raporlar.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En yeni777.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En yeni777.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Doktorlar.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.GirisEkrani.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Raporlar.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Form2.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Hastalar.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Poliklinikler.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En_yeni777.Properties.Resources.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En yeni777.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En yeni777.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En yeni777.exe
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\Hastane\Hastane\obj\Debug\En yeni777.pdb
